@@ -1,1 +1,3 @@
-	
+#!/bin/bash
+$ echo Chicago | ./20-hiago
+hiago	
